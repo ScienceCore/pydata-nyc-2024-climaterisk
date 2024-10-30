@@ -17,6 +17,7 @@ venv.bak/
 # Jupyter Notebook
 .ipynb_checkpoints
 book/*.ipynb
+scratch
 
 # Jupyter Book
 book/_build
